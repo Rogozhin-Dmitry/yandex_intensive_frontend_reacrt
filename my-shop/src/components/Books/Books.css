@@ -1,0 +1,6 @@
+.books_block {
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+    min-width: 895px;
+}

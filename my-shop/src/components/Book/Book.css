@@ -1,0 +1,47 @@
+.book_block {
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    margin-bottom: 16px;
+    padding: 16px 20px;
+    max-width: 895px;
+    min-height: 216px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.book_left_block {
+    display: flex;
+    flex-direction: column;
+}
+
+.book_right_block {
+    display: flex;
+    align-items: center;
+}
+
+.book_title {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.book_author {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 22px;
+}
+
+.book_type {
+    margin-top: 7px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.book_price {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+}

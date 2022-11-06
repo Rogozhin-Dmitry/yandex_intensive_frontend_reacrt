@@ -1,0 +1,19 @@
+.review_block {
+    margin-left: 20px;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    margin-bottom: 16px;
+    padding: 16px 20px;
+    max-width: 1200px;
+}
+
+.upper_review_block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.review_header {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+}

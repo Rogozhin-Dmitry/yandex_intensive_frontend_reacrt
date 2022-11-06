@@ -1,0 +1,23 @@
+.plus_icon {
+    margin: 10px;
+    width: 18px;
+    height: 18px;
+    background-repeat: no-repeat;
+    background-image: url("../../static/images/plus.svg");
+}
+
+.minus_icon {
+    width: 18px;
+    height: 18px;
+    margin: 18px 10px 10px;
+    background-repeat: no-repeat;
+    background-image: url("../../static/images/minus.svg");
+}
+
+.book_rating {
+    margin: 0 24px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,13 @@
+.book_content {
+    padding-top: 30px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.book {
+    min-width: 590px;
+}
